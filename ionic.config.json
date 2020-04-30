@@ -1,0 +1,7 @@
+{
+  "name": "TangemSdkTest",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

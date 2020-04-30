@@ -1,0 +1,61 @@
+{
+  "name": "tangemsdktest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "lint": "vue-cli-service lint",
+    "sync": "ionic cap sync --prod",
+    "manifest": "ionic deploy manifest",
+    "ionic:build": "npm run build",
+    "build": "vue-cli-service build",
+    "web": "vue-cli-service serve",
+    "mobile": "npm run manifest; npm run sync"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15",
+    "module": "^1.2.5",
+    "moment": "^2.24.0",
+    "tangem_sdk": "0.0.1",
+    "vue": "^2.6.11",
+    "vuex": "^3.3.0"
+  },
+  "devDependencies": {
+    "@capacitor/android": "^2.0.2",
+    "@capacitor/cli": "^2.0.2",
+    "@capacitor/core": "^2.0.2",
+    "@capacitor/ios": "^2.0.2",
+    "@vue/cli-plugin-babel": "^4.3.1",
+    "@vue/cli-plugin-eslint": "^4.3.1",
+    "@vue/cli-service": "^4.3.1",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.14.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "rules": {},
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}

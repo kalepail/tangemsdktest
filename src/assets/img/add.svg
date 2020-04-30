@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#4141F2" offset="0%"></stop>
+            <stop stop-color="#2B2BD9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Application" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inbox" transform="translate(-333.000000, -18.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="Nav-Bar" transform="translate(0.000000, -1.000000)">
+                <g id="Shape-2" transform="translate(331.000000, 17.000000)">
+                    <path d="M16.4183276,13.2492414 L21.4901207,18.3201379 C22.189431,19.0194483 22.189431,20.1553793 21.4901207,20.8555862 L20.8562586,21.4894483 C20.1560517,22.1896552 19.0201207,22.1896552 18.3199138,21.4894483 L13.2490172,16.4185517 L8.17722414,21.4894483 C7.47791379,22.1896552 6.34108621,22.1896552 5.64177586,21.4894483 L5.00791379,20.8555862 C4.3077069,20.1553793 4.3077069,19.0194483 5.00791379,18.3201379 L10.0788103,13.2492414 L5.00791379,8.17744828 C4.3077069,7.47724138 4.3077069,6.34131034 5.00791379,5.64110345 L5.64177586,5.00724138 C6.34108621,4.30793103 7.47791379,4.30793103 8.17722414,5.00724138 L13.2490172,10.0790345 L18.3199138,5.00724138 C19.0201207,4.30793103 20.1560517,4.30793103 20.8562586,5.00724138 L21.4901207,5.64110345 C22.189431,6.34131034 22.189431,7.47724138 21.4901207,8.17744828 L16.4183276,13.2492414 Z" id="Shape" transform="translate(13.248681, 13.248681) rotate(45.000000) translate(-13.248681, -13.248681) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

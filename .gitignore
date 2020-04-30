@@ -1,0 +1,12 @@
+.DS_Store
+.gradle
+node_modules
+dist
+ios
+android
+electron/app
+electron/dist
+!android/build.gradle
+!android/app/build.gradle
+!android/app/src/main/AndroidManifest.xml
+!ios/App/App/Info.plist

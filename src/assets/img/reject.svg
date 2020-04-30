@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Application" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inbox" transform="translate(-347.000000, -331.000000)" fill="#12161F" fill-rule="nonzero">
+            <g id="Shape-3" transform="translate(346.000000, 331.000000)">
+                <path d="M18.26275,0.999 L17.55475,0.292 C17.16475,-0.098 16.53175,-0.098 16.14075,0.292 L9.77775,6.656 L3.41375,0.292 C3.02375,-0.098 2.39075,-0.098 1.99975,0.292 L1.29275,0.999 C0.90175,1.39 0.90175,2.023 1.29275,2.414 L7.65675,8.778 L1.29275,15.141 C0.90175,15.532 0.90175,16.164 1.29275,16.555 L1.99975,17.262 C2.39075,17.653 3.02375,17.653 3.41375,17.262 L9.77775,10.899 L16.14075,17.262 C16.53175,17.653 17.16475,17.653 17.55475,17.262 L18.26275,16.555 C18.65275,16.164 18.65275,15.532 18.26275,15.141 L11.89875,8.778 L18.26275,2.414 C18.65275,2.023 18.65275,1.389 18.26275,0.999 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

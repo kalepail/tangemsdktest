@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="40px" viewBox="0 0 43 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g class="group" transform="translate(-118.000000, -308.000000)" fill="#30F271">
+            <g transform="translate(117.000000, 306.000000)">
+                <g transform="translate(22.500000, 22.000000) scale(1, -1) translate(-22.500000, -22.000000) ">
+                    <polygon class="top" transform="translate(22.500000, 32.500000) rotate(45.000000) translate(-22.500000, -32.500000) " points="22.3046842 36.0169948 15 40 18.9830052 32.6953158 15.7891949 25.7891949 22.6953158 28.9830052 30 25 26.0169948 32.3046842 29.2108051 39.2108051"></polygon>
+                    <polygon class="right" transform="translate(33.500000, 22.500000) rotate(45.000000) translate(-33.500000, -22.500000) " points="33.3046842 26.0169948 26 30 29.9830052 22.6953158 26.7891949 15.7891949 33.6953158 18.9830052 41 15 37.0169948 22.3046842 40.2108051 29.2108051"></polygon>
+                    <polygon class="bottom" transform="translate(22.500000, 11.500000) rotate(45.000000) translate(-22.500000, -11.500000) " points="22.3046842 15.0169948 15 19 18.9830052 11.6953158 15.7891949 4.7891949 22.6953158 7.98300517 30 4 26.0169948 11.3046842 29.2108051 18.2108051"></polygon>
+                    <polygon class="left" transform="translate(11.500000, 21.500000) rotate(45.000000) translate(-11.500000, -21.500000) " points="11.3046842 25.0169948 4 29 7.98300517 21.6953158 4.7891949 14.7891949 11.6953158 17.9830052 19 14 15.0169948 21.3046842 18.2108051 28.2108051"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

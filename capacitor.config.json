@@ -1,0 +1,7 @@
+{
+  "appId": "test.tangemsdk",
+  "appName": "TangemSdkTest",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist"
+}

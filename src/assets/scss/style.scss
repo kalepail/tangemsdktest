@@ -1,4 +1,4 @@
-@import 
+@import
 './reset',
 './vamp';
 
@@ -26,7 +26,7 @@ body {
 }
 
 :root {
-  /* ------------------------------------------------------------------- 
+  /* -------------------------------------------------------------------
       Assign the default/constant/env values to CSS variables
   */
   --safe-area-inset-top   : 0px;
@@ -52,8 +52,8 @@ body {
 @supports(border-top: unquote('max(0px)')) {
 
   body.touchscroll .app { // Has to append to body so it affects every page without having to re-append the class
-    /* -------------------------------------------------------------------   
-        Use the CSS variables in the max function   
+    /* -------------------------------------------------------------------
+        Use the CSS variables in the max function
     */
     border-top: unquote('max(20px, #{var(--safe-area-inset-top)})') solid $ui-2;
   }

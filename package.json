@@ -13,10 +13,13 @@
   },
   "dependencies": {
     "axios": "^0.19.2",
+    "bluebird": "^3.7.2",
+    "hex-to-array-buffer": "^1.1.0",
     "lodash": "^4.17.15",
     "module": "^1.2.5",
     "moment": "^2.24.0",
-    "tangem_sdk": "0.0.1",
+    "stellar-sdk": "^5.0.0",
+    "tangem_sdk": "0.0.2",
     "vue": "^2.6.11",
     "vuex": "^3.3.0"
   },

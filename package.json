@@ -9,7 +9,7 @@
     "ionic:build": "npm run build",
     "build": "vue-cli-service build",
     "web": "vue-cli-service serve",
-    "mobile": "npm run manifest; npm run sync"
+    "mobile": "npm run sync ; npm run manifest"
   },
   "dependencies": {
     "axios": "^0.19.2",

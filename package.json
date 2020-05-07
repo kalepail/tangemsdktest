@@ -17,8 +17,8 @@
     "hex-to-array-buffer": "^1.1.0",
     "lodash": "^4.17.15",
     "module": "^1.2.5",
-    "moment": "^2.24.0",
-    "stellar-sdk": "^5.0.0",
+    "moment": "^2.25.3",
+    "stellar-sdk": "^5.0.1",
     "tangem_sdk": "0.0.2",
     "vue": "^2.6.11",
     "vuex": "^3.3.0"
@@ -34,7 +34,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
     "eslint-plugin-vue": "^6.2.2",
-    "node-sass": "^4.14.0",
+    "node-sass": "^4.14.1",
     "sass-loader": "^8.0.2",
     "vue-template-compiler": "^2.6.11"
   },

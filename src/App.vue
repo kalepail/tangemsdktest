@@ -101,6 +101,8 @@ export default {
 
         TangemSdk.sign({
           success: (result) => {
+            console.log(result)
+
             const signature = btoa(
               String.fromCharCode(
                 ...new Uint8Array(
@@ -110,6 +112,8 @@ export default {
                 )
               )
             )
+
+            console.log(signature)
 
             transaction.addSignature(this.publicKey, signature)
             resolve(transaction.toXDR())

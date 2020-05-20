@@ -90,7 +90,7 @@ export default {
 
     scanCard() {
       TangemSdk.scanCard({
-        success: (result) => this.tangemCard = JSON.parse(result),
+        success: (result) => this.tangemCard = result,
         error: (error) => console.error(error)
       })
     },
@@ -107,7 +107,7 @@ export default {
               String.fromCharCode(
                 ...new Uint8Array(
                   hexToArrayBuffer(
-                    JSON.parse(result).signature
+                    result.signature
                   )
                 )
               )

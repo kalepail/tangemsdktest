@@ -17,7 +17,7 @@
     "hex-to-array-buffer": "^1.1.0",
     "lodash": "^4.17.20",
     "module": "^1.2.5",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "stellar-sdk": "^5.0.4",
     "tangem-sdk": "^0.2.4",
     "vue": "^2.6.12",
